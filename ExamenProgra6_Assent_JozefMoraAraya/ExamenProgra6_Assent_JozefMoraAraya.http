@@ -1,0 +1,6 @@
+@ExamenProgra6_Assent_JozefMoraAraya_HostAddress = http://localhost:5083
+
+GET {{ExamenProgra6_Assent_JozefMoraAraya_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

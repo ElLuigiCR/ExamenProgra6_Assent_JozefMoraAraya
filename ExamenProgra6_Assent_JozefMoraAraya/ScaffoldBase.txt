@@ -1,0 +1,3 @@
+﻿SERVER=.;DATABASE=AnswersDB;INTEGRATED SECURITY=FALSE; TrustedServerCertificate=True; Trusted_Connection=true; encrypt=false; User Id=Progra6; Password=progra6 
+
+Scaffold-DbContext -f "SERVER=.;DATABASE=AnswersDB;INTEGRATED SECURITY=FALSE; TrustServerCertificate=True; Trusted_Connection=true; encrypt=false; User Id=Progra6; Password=progra6" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
